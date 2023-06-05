@@ -4,8 +4,8 @@ body {
     padding: 0;
     cursor: none;
     height: 3000px;
-    background: #161616;
-    background-image: url(patt.svg);
+    background: #000000;
+    /* background-image: url(patt.svg); */
 
 }
 
@@ -39,7 +39,7 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 20px;
+    font-size: 25px;
     /* Initial font size */
     font-family: "Russo One", sans-serif;
     /* Initial font family */
